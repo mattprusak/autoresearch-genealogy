@@ -19,6 +19,8 @@ tags: [genealogy, simpson, person]
 |---|---|---|
 | Full Name | Martin Simpson | MyHeritage |
 | Born | 1947 (year only) | MyHeritage |
+| Father | [[Leslie_Roy_Simpson]] | MyHeritage |
+| Mother | [[Henrietta_Simpson]] (née Konyn) | MyHeritage |
 | Spouse | [[Sheila_Simpson]] | MyHeritage |
 | Children | [[Alexander_Bastien]] | MyHeritage |
 
@@ -29,6 +31,5 @@ Stub. Husband of Sheila Simpson (née Bettison), father of Alexander Bastien.
 ## Open Questions
 
 - Exact birth date and place?
-- Parents (Simpson line opening)?
 - Marriage date/place?
 - Why does son carry Bastien surname?

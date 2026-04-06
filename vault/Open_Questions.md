@@ -48,10 +48,25 @@ Initial questions from loading the MyHeritage tree. All current data is single-s
 ### 9. Jeanie C McAllister's early death (1930, age ~30-40)
 - Cause? Where did Sheila Patricia (age 7) go afterward?
 
+### 10. Dutch-Jewish Konyn line — confirm origin and locate records
+- **The question**: The Konyn / de Vries / Pach / Voet surnames and patronymics ("Mozes Isak", "Johanna Jesaijas") strongly suggest Dutch-Jewish origin, likely Amsterdam.
+- **Search strategy**: Amsterdam City Archives (Stadsarchief Amsterdam) has extensive Jewish family records, marriage banns, and civil registration back to early 1800s. Also Akevoth (Dutch-Jewish genealogy database).
+- **Impact**: Could open several generations very quickly; Dutch records are exceptionally well preserved.
+- **Sensitivity**: Check Holocaust-era records (JOKOS, Yad Vashem) for any family members; this line may include Shoah victims given Dutch-Jewish context.
+
+### 11. Confirm inferred relationships from zoomed-out screenshot
+- Betsy/Betje Pach = née Voet (parents Andries Simon + Leentje)
+- Sophia Konyn = née de Vries (parents Mozes Isak + Johanna Jesaijas)
+- Both inferred from visual layout; need closer screenshots or GEDCOM to confirm.
+
+### 12. Two Henry Simpsons — verify they are distinct
+- Currently recorded as elder (husband of Isabella) and younger (husband of Ethel May Major, grandson of the elder).
+- Verify this isn't a tree error or merge artifact.
+
 ## Low Priority
 
-### 10. Geographic origins of all lines
-- All "likely UK" assignments are speculative. Need residence records.
+### 13. Geographic origins of all lines
+- All "likely UK" assignments for Simpson/Bettison/McAllister/Major are speculative. Need residence records.
 
 ## Data Acquisition Priorities
 
