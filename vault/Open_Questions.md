@@ -19,7 +19,10 @@ All current data is single-sourced from MyHeritage "Bastien Family Tree" screens
 - Born Amsterdam 1888-09-22; died Hackney, London 1960-09-02. Confirms **Amsterdam → London East End migration**.
 - Still unknown: which surname is canonical, her parents, year of arrival in London, marriage date/place.
 
-### 3. Holocaust-era status of the Dutch-Jewish line
+### 3. Holocaust-era status of the Dutch-Jewish line — LEADS OPENED (2026-04-07)
+See [[research-findings/2026-04-07_dutch_jewish_line_initial_sweep]]. Strongest candidate victim: **Ruben Andries Voet (1874–1943 Auschwitz)**, plausibly a brother of Betsy Pach née Voet (same patronymic "Andries"). Also Andries Voet (1893–1942 Auschwitz). Multiple Konijn victims on Joods Monument (Soesman, Freddy, Kaatje, and others); relationship to our Salomon unverified. **Confirmed: the "Leah Konijn" on Joods Monument is NOT our Leah** (different parents; ours survived in London).
+
+### 3a. Original holocaust question
 - Abraham Konyn (1888–c.1961), Leah Konyn née Berkovitch (c.1888–1960), and Salomon Konyn (1863–1950-07-13) all lived through WWII and died after it.
 - Where were they during the German occupation of the Netherlands (1940–1945)?
 - Dutch Jewish community suffered ~75% losses. Survivors' stories matter.
