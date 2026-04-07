@@ -3,11 +3,14 @@ type: person
 name: "George Henry Simpson"
 born: 1876-07
 died: 1958-04
+birthplace: "Auckland, Durham, England"
+deathplace: "Durham Western, Durham, England"
 family: "Simpson"
 confidence: moderate
 sources:
-  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06)"
+  - "MyHeritage CSV export 2026-04-07"
 created: 2026-04-06
+updated: 2026-04-07
 tags: [genealogy, simpson, person]
 ---
 
@@ -15,11 +18,11 @@ tags: [genealogy, simpson, person]
 
 | Field | Value | Source |
 |---|---|---|
-| Born | July 1876 | MyHeritage |
-| Died | April 1958 | MyHeritage |
-| Father | [[Henry_Simpson_elder]] | MyHeritage |
-| Mother | [[Isabella_Simpson]] (née Caffry) | MyHeritage |
-| Spouse | [[Mary_Jane_Simpson]] (née Major) | MyHeritage |
-| Children | [[Henry_Simpson]] | MyHeritage |
+| Born | July 1876, Auckland, Durham, England | CSV |
+| Died | April 1958, Durham Western, Durham, England | CSV |
+| Father | [[Henry_Simpson_elder]] (1852-07 Easington – ) | CSV |
+| Mother | [[Isabella_Simpson]] (née Caffry, 1854 – 1885 age 31) | CSV |
+| Spouse | [[Mary_Jane_Simpson]] (née Major, c.1876 Seaham Harbour) | CSV |
+| Children | [[Henry_Simpson]] (c.1896 Hull – ) | CSV |
 
-Lost his mother Isabella at age ~9 (she died 1885). Lived 81 years.
+Born Bishop Auckland, Durham. Lost mother Isabella at age ~9. Lived 81 years.

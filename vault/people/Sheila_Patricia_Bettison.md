@@ -1,39 +1,31 @@
 ---
 type: person
-name: "Sheila Patricia Bettison"
+name: "Sheila Patricia McAllister"
 born: 1923-03-02
-died: 1990-11-21
-family: "Bettison"
+died: unknown
+birthplace: "Antrim, Ireland"
+family: "McAllister"
 confidence: moderate
 sources:
-  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06)"
+  - "MyHeritage CSV export 2026-04-07"
 created: 2026-04-06
-tags: [genealogy, bettison, mcallister, person]
+updated: 2026-04-07
+tags: [genealogy, mcallister, bettison, person, ireland]
 ---
 
-# Sheila Patricia Bettison
+# Sheila Patricia McAllister
 
-Née McAllister.
-
-## Vital Information
+Née **McAllister**. Married name Bettison. Maternal grandmother of Alexander Bastien.
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Sheila Patricia Bettison (born McAllister) | MyHeritage |
-| Born | 1923-03-02 | MyHeritage |
-| Died | 1990-11-21 | MyHeritage |
-| Father | [[David_McAllister]] | MyHeritage |
-| Mother | [[Jeanie_C_McAllister]] | MyHeritage |
-| Spouse | [[Derek_Norman_Bettison]] | MyHeritage |
-| Children | [[Sheila_Simpson]] | MyHeritage |
+| Born | 1923-03-02, **Antrim, Ireland** | CSV |
+| Died | unknown (Deceased per MyHeritage) | CSV |
+| Father | [[David_McAllister]] (1890/1891 – 1975-10-24) | CSV |
+| Mother | [[Jeanie_C_McAllister]] (d. 1930-07-11 Antrim, Ireland) | CSV |
+| Spouse | [[Derek_Norman_Bettison]] (deceased) | CSV |
+| Children | [[Sheila_Simpson]] (née Bettison, b. 1948-11-05) | CSV |
 
-## Biography
+**Born Antrim, Northern Ireland**. Her mother Jeanie also died in Antrim 1930 when Sheila Patricia was 7. This opens a new **Northern Irish line** (the McAllister family) — McAllister is a classic Ulster Scots / Antrim surname.
 
-Born 1923 to David McAllister and Jeanie C McAllister. Mother died when she was 7. Married Derek Norman Bettison. Had daughter Sheila (b. 1948, who took the name Simpson by marriage). Died 1990.
-
-## Open Questions
-
-- Birthplace and place of death?
-- Marriage date/place to Derek Bettison?
-- Siblings?
-- What happened after her mother's death in 1930?
+At some point she moved from Northern Ireland to England, married Derek Bettison there, and had Sheila (b. 1948).

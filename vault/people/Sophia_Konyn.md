@@ -1,30 +1,32 @@
 ---
 type: person
-name: "Sophia Konyn"
-born: unknown
-died: unknown
-family: "Konyn"
-confidence: stub
+name: "Sophia De Vries"
+born: 1820-05-07
+died: 1859-09-02
+birthplace: "Holland"
+deathplace: "Haarlem, Noord-Holland, The Netherlands"
+family: "de Vries"
+confidence: moderate
 sources:
-  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06, zoomed out; relationships only, no dates)"
+  - "MyHeritage CSV export 2026-04-07"
 created: 2026-04-06
-tags: [genealogy, konyn, person, stub]
+updated: 2026-04-07
+tags: [genealogy, de-vries, konyn, person]
 ---
 
-# Sophia Konyn
+# Sophia De Vries
 
-## Vital Information
+Née **De Vries**. Married name Konyn.
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Sophia Konyn | MyHeritage |
-| Father | [[Mozes_Isak_de_Vries]] (inferred from tree layout) | MyHeritage |
-| Mother | [[Johanna_Jesaijas_de_Vries]] (inferred from tree layout) | MyHeritage |
-| Spouse | [[Moses_Konyn]] | MyHeritage |
-| Children | [[Salomon_Konyn]] | MyHeritage |
+| Born | 1820-05-07, Holland | CSV |
+| Died | 1859-09-02, Haarlem, Noord-Holland | CSV |
+| Father | [[Mozes_Isak_de_Vries]] (b. 1770–1800) | CSV |
+| Mother | [[Johanna_Jesaijas_de_Vries]] (née Abraham, b. 1780–1802) | CSV |
+| Spouse | [[Moses_Konyn]] (1824-08-09–) | CSV |
+| Children | [[Salomon_Konyn]] (recorded 1863, but post-dates her death — see warning) | CSV |
 
-## Notes
+⚠️ Died 1859, Salomon recorded born 1863. The 4-year gap means **Sophia cannot biologically be Salomon's mother** as currently recorded. Salomon is likely the child of Moses's second wife. Resolution requires Salomon's Haarlem birth certificate.
 
-Likely née de Vries — inferred from tree layout; needs confirmation.
-
-Stub record. No dates, places, or additional detail captured from the source screenshot. Needs GEDCOM or closer images for vitals.
+Birth name De Vries confirmed (no longer just inference). Parents Mozes Isak de Vries × Johanna Jesaijas de Vries (née Abraham) also confirmed by CSV.

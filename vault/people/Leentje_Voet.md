@@ -1,13 +1,13 @@
 ---
 type: person
 name: "Leentje Voet"
-born: unknown
+born: 1837
 died: unknown
-family: "Voet"
+birthplace: "Amsterdam, Noord-Holland, Nederland"
+family: "Park"
 confidence: moderate
 sources:
-  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06)"
-  - "Web research 2026-04-07: Geni, Dutch Jewry, Genealogie Online (via search snippets)"
+  - "MyHeritage CSV export 2026-04-07"
 created: 2026-04-06
 updated: 2026-04-07
 tags: [genealogy, voet, park, person]
@@ -15,13 +15,13 @@ tags: [genealogy, voet, park, person]
 
 # Leentje Voet
 
-Née **Park** (confirmed via multiple genealogy databases; corrects earlier assumption that Voet was her maiden name).
+Née **Park**. Married name Voet.
 
 | Field | Value | Source |
 |---|---|---|
-| Spouse | [[Andries_Simon_Voet]] | MyHeritage + Geni |
-| Children | [[Ruben_Andries_Voet]] (1874), [[Betsy_Pach]] (née Voet), Hartog Voet, Isaac Voet, Rebecca Voet | Geni / Dutch Jewry (via search) |
+| Born | 1837, Amsterdam | CSV |
+| Died | unknown (Deceased) | CSV |
+| Spouse | [[Andries_Simon_Voet]] (1838-04-01 – ?) | CSV |
+| Children | At least 7 — see [[Andries_Simon_Voet]] | CSV |
 
-Dutch-Jewish. Full name possibly "Leentje Isaac Voet (born Park)" per one genealogy source — the "Isaac" may be a patronymic indicating her father was named Isaac Park.
-
-Dates of birth/death not yet captured.
+Maiden name **Park** confirmed. Born Amsterdam 1837, just 1 year before her husband. Mother of multiple children including two Holocaust victims.

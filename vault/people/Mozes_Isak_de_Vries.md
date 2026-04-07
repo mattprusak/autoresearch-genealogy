@@ -1,28 +1,26 @@
 ---
 type: person
 name: "Mozes Isak de Vries"
-born: unknown
+born: "between 1770 and 1800"
 died: unknown
 family: "de Vries"
-confidence: stub
+confidence: moderate
 sources:
-  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06, zoomed out; relationships only, no dates)"
+  - "MyHeritage CSV export 2026-04-07"
 created: 2026-04-06
-tags: [genealogy, de vries, person, stub]
+updated: 2026-04-07
+tags: [genealogy, de-vries, person]
 ---
 
 # Mozes Isak de Vries
 
-## Vital Information
+Direct ancestor (6 generations). Confirmed by CSV — no longer just an inference.
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Mozes Isak de Vries | MyHeritage |
-| Spouse | [[Johanna_Jesaijas_de_Vries]] | MyHeritage |
-| Children | [[Sophia_Konyn]] (inferred) | MyHeritage |
+| Born | between 1770 and 1800, Holland (presumed) | CSV |
+| Died | unknown | CSV |
+| Spouse | [[Johanna_Jesaijas_de_Vries]] (née Abraham, b. between 1780 and 1802) | CSV |
+| Children | [[Sophia_Konyn]] (née De Vries, 1820-05-07 – 1859-09-02 Haarlem) | CSV |
 
-## Notes
-
-Patronymic 'Isak' and given name 'Mozes' strongly suggest Dutch-Jewish origin.
-
-Stub record. No dates, places, or additional detail captured from the source screenshot. Needs GEDCOM or closer images for vitals.
+Patronymic "Isak" (Isaac) marks Dutch-Jewish naming convention. Earliest Dutch-Jewish ancestor on the line, born in the Napoleonic era.

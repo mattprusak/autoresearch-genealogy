@@ -1,28 +1,28 @@
 ---
 type: person
 name: "Johanna Jesaijas de Vries"
-born: unknown
+born: "between 1780 and 1802"
 died: unknown
-family: "de Vries"
-confidence: stub
+family: "Abraham"
+confidence: moderate
 sources:
-  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06, zoomed out; relationships only, no dates)"
+  - "MyHeritage CSV export 2026-04-07"
 created: 2026-04-06
-tags: [genealogy, de vries, person, stub]
+updated: 2026-04-07
+tags: [genealogy, de-vries, abraham, person]
 ---
 
 # Johanna Jesaijas de Vries
 
-## Vital Information
+Née **Abraham**. Married name de Vries.
+
+Direct ancestor (6 generations). Confirmed by CSV.
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Johanna Jesaijas de Vries | MyHeritage |
-| Spouse | [[Mozes_Isak_de_Vries]] | MyHeritage |
-| Children | [[Sophia_Konyn]] (inferred) | MyHeritage |
+| Born | between 1780 and 1802, Holland (presumed) | CSV |
+| Died | unknown | CSV |
+| Spouse | [[Mozes_Isak_de_Vries]] | CSV |
+| Children | [[Sophia_Konyn]] (née De Vries, 1820–1859 Haarlem) | CSV |
 
-## Notes
-
-Patronymic 'Jesaijas' (Isaiah) suggests Dutch-Jewish origin.
-
-Stub record. No dates, places, or additional detail captured from the source screenshot. Needs GEDCOM or closer images for vitals.
+Patronymic "Jesaijas" (Isaiah) marks Dutch-Jewish naming. Birth surname **Abraham** — opens an entirely new Dutch-Jewish line.

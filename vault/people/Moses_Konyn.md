@@ -1,28 +1,25 @@
 ---
 type: person
 name: "Moses Konyn"
-born: unknown
+born: 1824-08-09
 died: unknown
+birthplace: "Holland"
 family: "Konyn"
-confidence: stub
+confidence: moderate
 sources:
-  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06, zoomed out; relationships only, no dates)"
+  - "MyHeritage CSV export 2026-04-07"
 created: 2026-04-06
-tags: [genealogy, konyn, person, stub]
+updated: 2026-04-07
+tags: [genealogy, konyn, person]
 ---
 
 # Moses Konyn
 
-## Vital Information
-
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Moses Konyn | MyHeritage |
-| Spouse | [[Sophia_Konyn]] | MyHeritage |
-| Children | [[Salomon_Konyn]] | MyHeritage |
+| Born | 1824-08-09, Holland | CSV |
+| Died | unknown | CSV |
+| Spouse | [[Sophia_Konyn]] (née De Vries, 1820-05-07 – 1859-09-02 Haarlem) | CSV |
+| Children | [[Salomon_Konyn]] (1863-01-22 Haarlem) | CSV |
 
-## Notes
-
-Parents not captured.
-
-Stub record. No dates, places, or additional detail captured from the source screenshot. Needs GEDCOM or closer images for vitals.
+Born 39 years before son Salomon. Wife Sophia died 1859 — **4 years before Salomon's recorded birth**. So either Salomon's actual mother was a second wife of Moses (Sophia's death and Moses's remarriage), or one of the dates is wrong. Highest priority: pull Salomon's Haarlem birth record from Noord-Hollands Archief to identify his actual mother.

@@ -1,30 +1,32 @@
 ---
 type: person
-name: "Henrietta Simpson"
-born: unknown
-died: unknown
-family: "Simpson"
-confidence: stub
+name: "Henrietta Konyn"
+born: 1919-12-17
+died: "August 1981 (recorded as 'between After August 1 1981 and Before September 1 1981')"
+birthplace: "Great Britain"
+deathplace: "Great Britain"
+family: "Konyn"
+confidence: moderate
 sources:
-  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06, zoomed out; relationships only, no dates)"
+  - "MyHeritage CSV export 2026-04-07"
 created: 2026-04-06
-tags: [genealogy, simpson, person, stub]
+updated: 2026-04-07
+tags: [genealogy, konyn, simpson, person]
 ---
 
-# Henrietta Simpson
+# Henrietta Konyn
 
-## Vital Information
+Née **Konyn**. Married name Simpson. The pivot point where the Dutch-Jewish Konyn line enters the Simpson family.
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Henrietta Simpson | MyHeritage |
-| Father | [[Abraham_Konyn]] | MyHeritage |
-| Mother | [[Leah_Konyn]] | MyHeritage |
-| Spouse | [[Leslie_Roy_Simpson]] | MyHeritage |
-| Children | [[Martin_Simpson]] | MyHeritage |
+| Born | 1919-12-17, Great Britain (likely London) | CSV |
+| Died | August 1981, Great Britain | CSV |
+| Father | [[Abraham_Konyn]] (1888 Amsterdam – c.1961 London) | CSV |
+| Mother | [[Leah_Konyn]] (née Berkovitch or Zaidenwaber, 1888 Amsterdam – 1960 Hackney) | CSV |
+| Spouse | [[Leslie_Roy_Simpson]] (1919-07-17 Grimsby – 1986-08-16) | CSV |
+| Children | [[Martin_Simpson]] (b. 1947) | CSV |
 
-## Notes
+Born **Great Britain 1919** (likely London/Hackney given mother died there). She and her husband Leslie Roy were both born in 1919. Lived 61 years.
 
-Née Konyn. Connects the Dutch-Jewish Konyn / de Vries / Pach / Voet lines to the Simpson family.
-
-Stub record. No dates, places, or additional detail captured from the source screenshot. Needs GEDCOM or closer images for vitals.
+Marriage of Henrietta (London-born Dutch-Jewish, Hackney) to Leslie Roy Simpson (Grimsby-born Durham Simpson family) is the cultural and geographic crossover that produced the maternal half of the Simpson side of Alexander's tree.

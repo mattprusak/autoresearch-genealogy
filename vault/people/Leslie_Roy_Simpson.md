@@ -1,30 +1,28 @@
 ---
 type: person
 name: "Leslie Roy Simpson"
-born: unknown
-died: unknown
+born: 1919-07-17
+died: 1986-08-16
+birthplace: "Grimsby, Great Britain"
+deathplace: "Great Britain"
 family: "Simpson"
-confidence: stub
+confidence: moderate
 sources:
-  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06, zoomed out; relationships only, no dates)"
+  - "MyHeritage CSV export 2026-04-07"
 created: 2026-04-06
-tags: [genealogy, simpson, person, stub]
+updated: 2026-04-07
+tags: [genealogy, simpson, person]
 ---
 
 # Leslie Roy Simpson
 
-## Vital Information
-
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Leslie Roy Simpson | MyHeritage |
-| Father | [[Henry_Simpson]] | MyHeritage |
-| Mother | [[Ethel_May_Simpson]] | MyHeritage |
-| Spouse | [[Henrietta_Simpson]] | MyHeritage |
-| Children | [[Martin_Simpson]] | MyHeritage |
+| Born | 1919-07-17, Grimsby, Great Britain | CSV |
+| Died | 1986-08-16, Great Britain | CSV |
+| Father | [[Henry_Simpson]] (c.1896 Hull) | CSV |
+| Mother | [[Ethel_May_Simpson]] (née Calvert OR Major, c.1900 Hull – 1985 Sunderland) | CSV |
+| Spouse | [[Henrietta_Simpson]] (née Konyn, 1919-12-17 – 1981) | CSV |
+| Children | [[Martin_Simpson]] (b. 1947) | CSV |
 
-## Notes
-
-Grandfather of Alexander Bastien via Martin.
-
-Stub record. No dates, places, or additional detail captured from the source screenshot. Needs GEDCOM or closer images for vitals.
+Born **Grimsby**, Lincolnshire — first time the Simpson line has surfaced outside County Durham. His parents were from Hull, so the family was clearly moving around the Humberside / NE England coast in this generation. Lived 67 years.

@@ -1,0 +1,90 @@
+#	Identifier	Gender	Name	Relationship	Birth date	Birth place	Death date	Death place
+1	1500001	M	Alexander Bastien	This is you	November 3 1979	Great Britain		
+2	1500003	M	Martin Simpson	Your father	1947	Great Britain		
+3	1500002	F	Sheila Simpson (born Bettison)	Your mother	November 5 1948	Great Britain		
+4	1500006	F	Lyooza Bastien (born Rezaei)	Your wife	August 21 1984	Iran		
+5	1500008	M	Leslie Roy Simpson	Your grandfather	July 17 1919	Grimsby, Great Britain	August 16 1986	Great Britain
+6	1500007	F	Henrietta Simpson (born Konyn)	Your grandmother	December 17 1919	Great Britain	Between After August 1 1981 and Before September 1 1981	Great Britain
+7	1500005	M	Derek Norman Bettison	Your grandfather		Great Britain		
+8	1500004	F	Sheila Patricia Bettison (born McAllister)	Your grandmother	March 2 1923	Antrim, Ireland		
+9	1500009	M	Henry Simpson	Your great-grandfather	Circa 1896	Hull, England		
+10	1500010	F	Ethel May Simpson (born Calvert)	Your great-grandmother	Circa 1900	Hull, England	February 3 1985	Sunderland, Durham, England
+11	1500011	M	Abraham Konyn	Your great-grandfather	September 11 1888	Amsterdam, Holland	Circa 1961	London, England
+12	1500012	F	Leah Konyn (born Berkovitch or Zaidenwaber)	Your great-grandmother	Circa September 22 1888	Amsterdam, Holland	September 2 1960	Hackney, London
+13	1500068	M	Frederick Bettison	Your great-grandfather				
+14	1500066	M	David McAllister	Your great-grandfather	Between 1890 and 1891		October 24 1975	
+15	1500067	F	Jeanie C McAllister	Your great-grandmother			July 11 1930	Antrim, Ireland
+16	1500024	M	George Henry Simpson	Your great-great-grandfather	July 1876	Auckland, Durham, England	April 1958	Durham Western, Durham, England
+17	1500025	F	Mary jane Simpson	Your great-great-grandmother	Circa 1876	Seaham, Harbour		
+18	1500080	M	John Major	Your great-great-grandfather	1871	Darlington, Yorkshire		
+19	1500081	F	Jane Major	Your great-great-grandmother	1871	Sunderland, Durham		
+20	1500013	M	Salomon Konyn	Your great-great-grandfather	January 22 1863	Hareem, Holland	July 13 1950	London, England
+21	1500014	F	Mietje Konyn (born Van Slochem)	Your great-great-grandmother	Circa 1865	Holland	February 10 1911	London, England
+22	1500069	M	David Pach	Your great-great-grandfather	1861		1894	
+23	1500070	F	Betsy / Betje Pach (born Voet)	Your great-great-grandmother	June 10 1863	Amsterdam, Noord-Holland, Netherlands		
+24	1500028	F	Kate Isabella candler (born Simpson)	Your great-grandfather's sister	February 4 1896	Sunderland, Durham, England	July 1983	Sunderland, Tyne and Wear, England
+25	1500029	F	Edith Parnaby (born Simpson)	Your great-grandfather's sister	July 1909	Sunderland, Durham, England	April 1971	Birmingham, Warwickshire, England
+26	1500030	F	Annie Thompson (born Simpson)	Your great-grandfather's sister	August 17 1907	Sunderland, Durham, England	October 1977	Durham Northern, Durham, England
+27	1500031	F	Isabel Jopling (born Simpson)	Your great-grandfather's sister	October 7 1904	Sunderland, Durham, England	January 1981	Sunderland, Tyne and Wear, England
+28	1500084	M	William Major	Your great-great-uncle	1894	Sunderland, Durham		
+29	1500085	M	John Major	Your great-great-uncle	1896	Sunderland, Durham		
+30	1500086	M	Robert Major	Your great-great-uncle	1898	Sunderland, Durham		
+31	1500087	M	Elx Major	Your great-great-uncle	1903	Sunderland, Durham		
+32	1500089	M	Samie Major	Your great-great-uncle	1907	Sunderland, Durham		
+33	1500082	F	Laise Major	Your great-grandmother's sister	1889	Sunderland, Durham		
+34	1500083	F	Elizabeth Major	Your great-grandmother's sister	1890	Sunderland, Durham		
+35	1500088	F	Sara Ann Major	Your great-grandmother's sister	1905	Sunderland, Durham		
+36	1500015	M	Louis Konijn	Your great-great-uncle	1886			
+37	1500016	M	Nathan Konijn	Your great-great-uncle	1887			
+38	1500021	M	Andries Konijn	Your great-great-uncle	1900		1961	
+39	1500017	F	Dora Konijn	Your great-grandfather's sister	1889			
+40	1500018	F	Katherine Konijn	Your great-grandfather's sister	1894			
+41	1500019	F	Marianne Konijn	Your great-grandfather's sister	1896			
+42	1500020	F	Margaretha Konijn	Your great-grandfather's sister	1897			
+43	1500026	M	Henry Simpson	Your direct ancestor (5 generations)	July 1852	Easington, Durham, England		
+44	1500027	F	Isabella Simpson (born Caffry)	Your direct ancestor (5 generations)	1854	Bishop Wearmouth, Durham, England	1885	
+45	1500022	M	Moses Konyn	Your direct ancestor (5 generations)	August 9 1824	Holland		
+46	1500023	F	Sophia Konyn (born De Vries)	Your direct ancestor (5 generations)	May 7 1820	Holland	September 2 1859	Haarlem, Noord-Holland, The Netherlands
+47	1500071	M	Andries Simon Voet	Your direct ancestor (5 generations)	April 1 1838	Amsterdam, Noord-Holland, Nederland		
+48	1500072	F	Leentje Voet (born Park)	Your direct ancestor (5 generations)	1837	Amsterdam, Noord-Holland, Nederland		
+49	1500039	M	Alfred Candler	Your grandfather's cousin	February 4 1920	Sunderland, Tyne & Wear	March 1995	Leeds, West Yorkshire, England
+50	1500036	M	John William Simpson	Your grandfather's great-uncle	June 6 1877	Bishopwearmouth, Durham, England	July 1950	Sunderland, Durham, England
+51	1500034	F	Eleanor Simpson	Your grandfather's great-aunt	October 18 1883	Sunderland, Durham, England		
+52	1500035	F	Isabella Simpson	Your grandfather's great-aunt	1879	Bishopwearmouth, Durham, England	April 1965	Durham South eastern, Durham, England
+53	1500037	F	Martha Jane Caffry Simpson	Your grandfather's great-aunt	1870	Sunderland, Durham, England		
+54	1500073	M	Isaac Voet	Your grandmother's great-uncle	April 9 1865	Amsterdam, North Holland, Netherlands		
+55	1500074	M	Hartog Voet	Your grandmother's great-uncle	December 19 1868	Amsterdam, North Holland, Netherlands	March 26 1943	Sobibór, Włodawa, Lublin, Poland
+56	1500075	M	Isaac Voet	Your grandmother's great-uncle	November 5 1870	Amsterdam, Noord-Holland, Netherlands		
+57	1500076	M	Rúbin Voet	Your grandmother's great-uncle	June 27 1874	Amsterdam, Noord-Holland, Netherlands	March 26 1943	Sobibór, Włodawa, Lublin, Poland
+58	1500078	M	Samuel Voet	Your grandmother's great-uncle	September 7 1880	Amsterdam, Noord-Holland, Netherlands	September 19 1880	Amsterdam, Noord-Holland, Nederland
+59	1500079	M	Emanuël Voet	Your grandmother's great-uncle	November 7 1878	Amsterdam, Noord-Holland, Netherlands	August 28 1879	Amsterdam, Noord-Holland, Nederland
+60	1500077	F	Rebecca Voet	Your grandmother's great-aunt	February 13 1877	Amsterdam, Noord-Holland, Nederland	November 21 1940	Amsterdam, Noord-Holland, Nederland
+61	1500038	M	alfred candler	Your grandfather's uncle	April 20 1893			
+62	1500040		Walter Thompson	Your grandfather's uncle	October 1899	Sunderland, Durham, England		
+63	1500032	M	George Simpson	Your direct ancestor (6 generations)	February 8 1823	Bishopwearmouth, Durham, England	January 1885	Sunderland, Durham
+64	1500033	F	elizabeth Simpson (born hardy)	Your direct ancestor (6 generations)	1829	Durham, England		
+65	1500064	M	Mozes Isak de Vries	Your direct ancestor (6 generations)	Between 1770 and 1800			
+66	1500065	F	Johanna Jesaijas de Vries (born Abraham)	Your direct ancestor (6 generations)	Between 1780 and 1802			
+67	1500044	M	Alfred Simpson	Your grandfather's great-great-uncle	July 1862	Sunderland, Durham, England	July 1891	Sunderland, Durham, England
+68	1500043	F	Catherine Lincoln (born Simpson)	Your great-grandfather's great-aunt	July 1865	Sunderland, Durham, England		
+69	1500045	F	Susannah Whitehead (born Simpson)	Your great-grandfather's great-aunt	July 1854	Sunderland, Durham, England	January 1909	Sunderland, Durham, England
+70	1500046	F	Elizabeth Simpson	Your great-grandfather's great-aunt	1848	Sunderland, Durham, England		
+71	1500041	M	George Simpson	Your direct ancestor (7 generations)	August 25 1780	Bishop Auckland, Durham, England	September 21 1852	Sunderland, Durham, United Kingdom
+72	1500042	F	Elizabeth Simpson (born Tapley)	Your direct ancestor (7 generations)			October 1851	Stockton, Durham
+73	1500058	M	John George Lincoln	Your 1st cousin 4 times removed	April 4 1887	Sunderland, Durham, England, United Kingdom		
+74	1500050	M	John Tapley Simpson	Your great-grandfather's great-great-uncle	December 3 1807	Bishop Wearmouth Durham England	April 1887	Sunderland, Durham, England
+75	1500051	M	Charles Simpson	Your great-grandfather's great-great-uncle	December 6 1811	Sunderland, Durham, England		
+76	1500052	M	Henry Simpson	Your great-grandfather's great-great-uncle	May 25 1814	Sunderland, Durham, England	January 1838	Bishopwearmouth, Durham, England
+77	1500053	M	William Edward Simpson	Your great-grandfather's great-great-uncle	September 4 1805	Sunderland, Durham, England	September 1828	Bishopwearmouth, Durham, England
+78	1500049	F	Hannah Davison Simpson	Your great-great-grandfather's great-aunt	February 12 1810	Sunderland, Durham, England	October 1847	Bishopwearmouth, Durham, England
+79	1500054	F	Elizabeth M Barton (born Simpson)	Your great-great-grandfather's great-aunt	August 13 1816	Sunderland, Durham, England	January 1906	Sunderland, Durham, England
+80	1500055	F	Ann Tapley Simpson	Your great-great-grandfather's great-aunt	January 1 1804	Sunderland, Durham, England	March 1877	Sunderland, Durham, England
+81	1500057	M	John Charles Lincoln	Your great-great-grandfather's uncle	1864	Sunderland, Co. Durham, ENGLAND	1910	
+82	1500059	M	Thomas Whitehead	Your great-great-grandfather's uncle	1845	Renwick, Cumberland, England		
+83	1500047	M	Charles Simpson	Your direct ancestor (8 generations)	January 13 1741	Bishop Auckland, Durham, England	November 6 1809	Bishop Auckland, Co.Durham, England
+84	1500048	F	Jane Simpson (born Focit)	Your direct ancestor (8 generations)	1736	Auckland, Durham, England	April 27 1792	Bishop Auckland
+85	1500056	M	Edward Tapley	Your direct ancestor (8 generations)				
+86	1500063	M	John Simpson	Your direct ancestor (7 generations)'s half brother	1770	Bishop Auckland, Co.Durham, England	January 15 1852	Butterknowle, Co.Durham, England
+87	1500060	M	James Simpson	Your direct ancestor (9 generations)	February 13 1705	Bishop Auckland, Durham, England	May 1 1760	Stockton-on-Tees, Durham
+88	1500061	F	Mary Simpson (born Fowler)	Your direct ancestor (9 generations)	April 29 1711	Bishop Auckland, Durham, England	December 17 1762	Brancepeth, Durham, England
+89	1500062	F	Margaret Simpson (born Palfrey)	Your direct ancestor (8 generations)'s wife	May 27 1751	Auckland St Andrews, Co.Durham, England	1770	Auckland St Andrew, Durham, England
