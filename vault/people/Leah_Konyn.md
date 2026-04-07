@@ -1,30 +1,31 @@
 ---
 type: person
 name: "Leah Konyn"
-born: unknown
-died: unknown
+born: "circa 1888-09-22"
+died: 1960-09-02
 family: "Konyn"
-confidence: stub
+confidence: moderate
 sources:
-  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06, zoomed out; relationships only, no dates)"
+  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06)"
 created: 2026-04-06
-tags: [genealogy, konyn, person, stub]
+tags: [genealogy, konyn, berkovitch, person]
 ---
 
 # Leah Konyn
 
-## Vital Information
+Née **Berkovitch** (source shows "born Berkovitch o..." — name truncated in screenshot; could be "Berkovitch" or a longer form).
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Leah Konyn | MyHeritage |
-| Father | [[David_Pach]] | MyHeritage |
-| Mother | [[Betsy_Pach]] | MyHeritage |
+| Born | circa 1888-09-22 | MyHeritage |
+| Died | 1960-09-02 | MyHeritage |
 | Spouse | [[Abraham_Konyn]] | MyHeritage |
 | Children | [[Henrietta_Simpson]] | MyHeritage |
 
-## Notes
+**Parents unknown.** Earlier inference that she was daughter of David Pach + Betsy Voet was **wrong** — her maiden name is Berkovitch, not Pach. Parents not yet captured. Berkovitch (Berkowicz / Berkovich) is typically an Ashkenazi Jewish patronymic ("son of Ber"), common in Eastern European Jewish communities. This may indicate an Eastern European origin for Leah's line, distinct from the Dutch-origin Konyn family she married into.
 
-Née Pach.
-
-Stub record. No dates, places, or additional detail captured from the source screenshot. Needs GEDCOM or closer images for vitals.
+## Open questions
+- Full maiden name (truncated "o..." ending)
+- Parents
+- Eastern European or Dutch-born?
+- Survived WWII? (died 1960, so yes — but worth checking where she was during occupation)

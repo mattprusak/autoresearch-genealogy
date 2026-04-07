@@ -1,30 +1,25 @@
 ---
 type: person
 name: "Betsy / Betje Pach"
-born: unknown
+born: 1863-06-10
 died: unknown
 family: "Pach"
-confidence: stub
+confidence: moderate
 sources:
-  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06, zoomed out; relationships only, no dates)"
+  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06)"
 created: 2026-04-06
-tags: [genealogy, pach, person, stub]
+tags: [genealogy, pach, voet, person]
 ---
 
 # Betsy / Betje Pach
 
-## Vital Information
+Née **Voet** (confirmed).
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Betsy / Betje Pach | MyHeritage |
-| Father | [[Andries_Simon_Voet]] (inferred from tree layout) | MyHeritage |
-| Mother | [[Leentje_Voet]] (inferred from tree layout) | MyHeritage |
+| Born | 1863-06-10 | MyHeritage |
+| Died | unknown (marked Deceased) | MyHeritage |
+| Father | [[Andries_Simon_Voet]] | MyHeritage |
 | Spouse | [[David_Pach]] | MyHeritage |
-| Children | [[Leah_Konyn]] | MyHeritage |
 
-## Notes
-
-Name recorded as 'Betsy / Betje'. Likely née Voet — inferred from tree layout; needs confirmation.
-
-Stub record. No dates, places, or additional detail captured from the source screenshot. Needs GEDCOM or closer images for vitals.
+**Relationship to main Bastien line is unclear** — see [[David_Pach]]. Her father Andries Simon Voet is confirmed from the closer screenshot.

@@ -1,28 +1,25 @@
 ---
 type: person
 name: "Isabella Simpson"
-born: unknown
-died: unknown
+born: 1854
+died: 1885
 family: "Simpson"
-confidence: stub
+confidence: moderate
 sources:
-  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06, zoomed out; relationships only, no dates)"
+  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06)"
 created: 2026-04-06
-tags: [genealogy, simpson, person, stub]
+tags: [genealogy, simpson, caffry, person]
 ---
 
 # Isabella Simpson
 
-## Vital Information
+Née **Caffry**.
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Isabella Simpson | MyHeritage |
+| Born | 1854 | MyHeritage |
+| Died | 1885 | MyHeritage |
 | Spouse | [[Henry_Simpson_elder]] | MyHeritage |
 | Children | [[George_Henry_Simpson]] | MyHeritage |
 
-## Notes
-
-Maiden name unknown. Parents not yet captured.
-
-Stub record. No dates, places, or additional detail captured from the source screenshot. Needs GEDCOM or closer images for vitals.
+Died young, age 31. Caffry is an Irish surname (anglicized from Ó Cathbhaidh) — opens a possible Irish line. Parents not yet captured.

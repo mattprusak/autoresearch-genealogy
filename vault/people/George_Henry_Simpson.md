@@ -1,30 +1,25 @@
 ---
 type: person
 name: "George Henry Simpson"
-born: unknown
-died: unknown
+born: 1876-07
+died: 1958-04
 family: "Simpson"
-confidence: stub
+confidence: moderate
 sources:
-  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06, zoomed out; relationships only, no dates)"
+  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06)"
 created: 2026-04-06
-tags: [genealogy, simpson, person, stub]
+tags: [genealogy, simpson, person]
 ---
 
 # George Henry Simpson
 
-## Vital Information
-
 | Field | Value | Source |
 |---|---|---|
-| Full Name | George Henry Simpson | MyHeritage |
+| Born | July 1876 | MyHeritage |
+| Died | April 1958 | MyHeritage |
 | Father | [[Henry_Simpson_elder]] | MyHeritage |
-| Mother | [[Isabella_Simpson]] | MyHeritage |
-| Spouse | [[Mary_Jane_Simpson]] | MyHeritage |
+| Mother | [[Isabella_Simpson]] (née Caffry) | MyHeritage |
+| Spouse | [[Mary_Jane_Simpson]] (née Major) | MyHeritage |
 | Children | [[Henry_Simpson]] | MyHeritage |
 
-## Notes
-
-
-
-Stub record. No dates, places, or additional detail captured from the source screenshot. Needs GEDCOM or closer images for vitals.
+Lost his mother Isabella at age ~9 (she died 1885). Lived 81 years.

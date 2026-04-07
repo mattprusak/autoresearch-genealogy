@@ -31,27 +31,29 @@ Complete merged family tree. All dates from MyHeritage "Bastien Family Tree" unl
 ```
 [[Martin_Simpson]] (1947)
 └── [[Leslie_Roy_Simpson]] × [[Henrietta_Simpson]] (née Konyn)
-    ├── [[Henry_Simpson]] × [[Ethel_May_Simpson]] (née Major)
-    │   ├── [[George_Henry_Simpson]] × [[Mary_Jane_Simpson]]
-    │   │   ├── [[Henry_Simpson_elder]] × [[Isabella_Simpson]]
+    ├── [[Henry_Simpson]] (c.1896) × [[Ethel_May_Simpson]] (née Calvert, c.1900–1985)
+    │   ├── [[George_Henry_Simpson]] (1876–1958) × [[Mary_Jane_Simpson]] (née Major, c.1876)
+    │   │   ├── [[Henry_Simpson_elder]] × [[Isabella_Simpson]] (née Caffry, 1854–1885)
     │   │   │   └── [[George_Simpson]] × [[Elizabeth_Simpson]]
-    │   └── [[John_Major]] × [[Jane_Major]]
+    │   └── [[John_Major]] (1871) × [[Jane_Major]] (1871)  — parents of Mary jane
+    │   (Calvert line, via Ethel May: parents unknown)
     └── (Henrietta's parents: Konyn line, below)
 ```
 **[[Sheila_Simpson]]** — b. 1948-11-05 (née Bettison). Mother of Alexander.
 
-### Konyn / Pach / de Vries / Voet (Dutch-Jewish maternal-paternal line, via Henrietta Simpson)
+### Konyn / Van Slochem / Berkovitch (Dutch-Jewish and Eastern European, via Henrietta Simpson)
 ```
 [[Henrietta_Simpson]] (née Konyn)
-├── [[Abraham_Konyn]] × [[Leah_Konyn]] (née Pach)
-│   ├── [[Salomon_Konyn]] × [[Mietje_Konyn]]
-│   │   ├── [[Moses_Konyn]] × [[Sophia_Konyn]] (née de Vries, inferred)
-│   │   │   └── [[Mozes_Isak_de_Vries]] × [[Johanna_Jesaijas_de_Vries]]
-│   │   └── (Mietje parents unknown)
-│   └── [[David_Pach]] × [[Betsy_Pach]] (née Voet, inferred)
-│       └── [[Andries_Simon_Voet]] × [[Leentje_Voet]]
+├── [[Abraham_Konyn]] (1888-09-11 – c.1961) × [[Leah_Konyn]] (née Berkovitch, c.1888 – 1960)
+│   ├── [[Salomon_Konyn]] (1863-01-22 – 1950-07-13) × [[Mietje_Konyn]] (née Van Slochem, c.1865 – 1911)
+│   │   └── [[Moses_Konyn]] × [[Sophia_Konyn]]
+│   │       └── [[Mozes_Isak_de_Vries]] × [[Johanna_Jesaijas_de_Vries]] (relationship to Sophia unverified)
+│   └── (Berkovitch line — Leah's parents unknown; likely Eastern European Jewish)
 ```
-Surname patterns (Konyn, de Vries, Pach, Voet, patronymics like "Isak" and "Jesaijas") strongly suggest Dutch-Jewish origin. Probable region: Netherlands, likely Amsterdam.
+
+**Unplaced branch:** [[David_Pach]] (1861–1894) × [[Betsy_Pach]] (née Voet, b. 1863-06-10) with Betsy's father [[Andries_Simon_Voet]] (b. 1838-04-01). These appear in the tree but how they connect to Alexander's direct line is currently unclear — earlier assumption that David + Betsy were parents of Leah was wrong (Leah is née Berkovitch, not Pach).
+
+Surname origins: Konyn, Van Slochem, Voet, de Vries → Dutch-Jewish (likely Amsterdam). Berkovitch → Eastern European Ashkenazi (Russian Empire / Pale of Settlement). Leah's marriage to Abraham Konyn may represent an immigration-era match within the Dutch Jewish community.
 
 ### Rezaei (spouse's line)
 **[[Lyooza_Bastien]]** — b. 1984-08-21 (née Rezaei). Spouse of Alexander. Likely Iranian/Persian origin; entirely unresearched.
@@ -85,7 +87,9 @@ None identified yet (single-source data).
 
 | Region | Family Lines | Time Period | Confidence |
 |---|---|---|---|
-| Unknown (likely UK) | Bettison, McAllister, Simpson, Major | 1890s to present | Speculative (based on surnames) |
-| Unknown (likely Netherlands) | Konyn, de Vries, Pach, Voet | pre-1900s | Speculative (Dutch-Jewish surname patterns + patronymics "Isak", "Jesaijas") |
+| Unknown (likely UK) | Bettison, McAllister, Simpson, Major, Calvert | 1850s to present | Speculative (based on surnames) |
+| Ireland (likely) | Caffry | pre-1854 | Speculative (Irish surname) |
+| Netherlands (likely Amsterdam) | Konyn, Van Slochem, de Vries, Pach, Voet | pre-1838 to 1950s | Moderate (Dutch-Jewish surname patterns + patronymics) |
+| Eastern Europe (likely) | Berkovitch | pre-1888 | Speculative (Ashkenazi patronymic) |
 | Unknown (likely Iran) | Rezaei | — | Speculative (based on surname) |
 | Unknown | Bastien | — | Unresolved |

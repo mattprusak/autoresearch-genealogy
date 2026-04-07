@@ -7,72 +7,96 @@ tags: [genealogy, research, open-questions]
 
 # Open Questions
 
-Initial questions from loading the MyHeritage tree. All current data is single-sourced (MyHeritage screenshot); primary record verification is a cross-cutting need.
+All current data is single-sourced from MyHeritage "Bastien Family Tree" screenshots. Primary record verification is a cross-cutting need. Several earlier inferences were corrected by the 01:00 close-up screenshots — corrections noted inline.
 
 ## High Priority
 
 ### 1. Origin of the "Bastien" surname
-- **The question**: Alexander Bastien's father is Martin Simpson. Why does Alexander carry the surname Bastien rather than Simpson?
-- **Hypotheses**: legal name change, adoption, different biological father, stepfather arrangement, stage name kept legally.
-- **Impact**: Determines whether the Bastien surname represents a distinct paternal line to research, or is purely administrative.
-- **Next step**: Ask Alexander directly (he's the tree owner). Also check MyHeritage profile notes.
+- Alexander Bastien's father is Martin Simpson. Why does Alexander carry the surname Bastien rather than Simpson?
+- Hypotheses: legal name change, adoption, different biological father, stepfather arrangement, stage name kept legally.
+- **Next step**: ask Alexander directly.
 
-### 2. Identity of Derek Norman Bettison's mother
-- **The question**: Frederick Bettison is recorded as father but no mother is listed.
-- **Minimum records needed**: Derek's birth certificate or Frederick's marriage record.
-- **Search strategy**: UK GRO (if British), or equivalent civil registration.
+### 2. Leah Konyn née Berkovitch — full maiden name and parents
+- Source shows "born Berkovitch o..." — truncated. Is it just "Berkovitch" or a longer form (Berkovitch-something, Berkowicz of [place])?
+- Parents entirely unknown.
+- Berkovitch is an Ashkenazi patronymic suggesting **Eastern European** (Russian Empire / Pale of Settlement) origin — distinct from the Dutch-Jewish Konyn family she married into.
+- This is a whole new line to open. Likely involves migration: Eastern Europe → Netherlands → UK.
+- **Next step**: closer screenshot of her MyHeritage record; Dutch civil registration marriage record for Abraham × Leah.
 
-### 3. Jeanie C McAllister — maiden name and "C"
-- **The question**: Is "McAllister" her birth name or married name (to David)? What does "C" stand for?
-- **Impact**: Opens or closes a maternal line.
-- **Search strategy**: Marriage record for David McAllister × Jeanie (~1920-1923, given daughter b. 1923).
+### 3. Holocaust-era status of the Dutch-Jewish line
+- Abraham Konyn (1888–c.1961), Leah Konyn née Berkovitch (c.1888–1960), and Salomon Konyn (1863–1950-07-13) all lived through WWII and died after it.
+- Where were they during the German occupation of the Netherlands (1940–1945)?
+- Dutch Jewish community suffered ~75% losses. Survivors' stories matter.
+- **Sources to check**: Joods Monument (joodsmonument.nl), Red Cross tracing, Dutch Jewish Council records, Yad Vashem.
+- Were there family members who did not survive? The tree as captured only shows direct ancestors; siblings and extended family need to be examined.
+
+### 4. David Pach + Betsy Voet — how do they connect?
+- David Pach (1861–1894) × Betsy/Betje Pach née Voet (b. 1863-06-10) appear in the tree with Betsy's father Andries Simon Voet (b. 1838-04-01).
+- Earlier assumption that they were parents of Leah Konyn was **wrong** (Leah is née Berkovitch).
+- Their actual position in Alexander's line is currently unclear — possibly a collateral branch, possibly parents of someone else in the tree not yet captured.
+- **Next step**: closer screenshot showing the connecting lines.
+
+### 5. Identity of Derek Norman Bettison's mother
+- Frederick Bettison recorded as father; no mother listed.
+- **Source needed**: Derek's birth certificate or Frederick's marriage record (UK GRO).
+
+### 6. Jeanie C McAllister — maiden name and "C"
+- Is "McAllister" her birth name or married name? What does "C" stand for?
+- **Source needed**: marriage record for David McAllister × Jeanie (~1920–1922).
 
 ## Medium Priority
 
-### 4. Frederick Bettison vitals
-- Complete blank. Need any birth, death, marriage, or residence record.
+### 7. Ethel May Simpson née Calvert — parents
+- Opens the Calvert line entirely (earlier error had her as née Major; corrected).
+- b. circa 1900, d. 1985-02-03. Likely UK.
 
-### 5. Derek Norman Bettison vitals
+### 8. Mietje Konyn née Van Slochem — parents
+- b. circa 1865, d. 1911-02-10. Opens Van Slochem line (Dutch toponymic from Slochteren).
+- Earlier incorrect inference had her as née de Vries; corrected.
+
+### 9. Sophia Konyn — is she née de Vries?
+- Still unverified. Mozes Isak de Vries × Johanna Jesaijas de Vries appeared in the wider tree shot as possible parents, but this has not been confirmed from close-up data.
+
+### 10. Isabella Caffry line
+- b. 1854, d. 1885 (age 31). Parents unknown. Caffry is an Irish surname — opens a possible Irish branch.
+
+### 11. Henry Simpson (younger, c.1896) — WWI service?
+- Born ~1896, so of age for WWI. UK service records worth checking.
+
+### 12. Frederick Bettison vitals
+- Complete blank. Need any record.
+
+### 13. Derek Norman Bettison vitals
 - No dates. Should be findable via UK civil registration if British.
 
-### 6. Martin Simpson parents
-- Opens the Simpson paternal line entirely.
+### 14. Martin Simpson details
+- Parents now known (Leslie Roy × Henrietta née Konyn). Still need exact birth date/place.
 
-### 7. Rezaei line (Lyooza)
-- Entirely unresearched. Spouse's line.
-- Iran-origin research requires different methodology; see if family records exist.
+### 15. Rezaei line (Lyooza)
+- Entirely unresearched. Iran-origin research requires different methodology.
 
-### 8. David McAllister exact birth
-- Source gives "between 1890 and 1891" — find birth certificate for precise date and place.
+### 16. David McAllister exact birth
+- "Between 1890 and 1891" — find birth certificate for precise date/place.
 
-### 9. Jeanie C McAllister's early death (1930, age ~30-40)
+### 17. Jeanie C McAllister's early death (1930)
 - Cause? Where did Sheila Patricia (age 7) go afterward?
 
-### 10. Dutch-Jewish Konyn line — confirm origin and locate records
-- **The question**: The Konyn / de Vries / Pach / Voet surnames and patronymics ("Mozes Isak", "Johanna Jesaijas") strongly suggest Dutch-Jewish origin, likely Amsterdam.
-- **Search strategy**: Amsterdam City Archives (Stadsarchief Amsterdam) has extensive Jewish family records, marriage banns, and civil registration back to early 1800s. Also Akevoth (Dutch-Jewish genealogy database).
-- **Impact**: Could open several generations very quickly; Dutch records are exceptionally well preserved.
-- **Sensitivity**: Check Holocaust-era records (JOKOS, Yad Vashem) for any family members; this line may include Shoah victims given Dutch-Jewish context.
-
-### 11. Confirm inferred relationships from zoomed-out screenshot
-- Betsy/Betje Pach = née Voet (parents Andries Simon + Leentje)
-- Sophia Konyn = née de Vries (parents Mozes Isak + Johanna Jesaijas)
-- Both inferred from visual layout; need closer screenshots or GEDCOM to confirm.
-
-### 12. Two Henry Simpsons — verify they are distinct
-- Currently recorded as elder (husband of Isabella) and younger (husband of Ethel May Major, grandson of the elder).
-- Verify this isn't a tree error or merge artifact.
+### 18. Two Henry Simpsons — verify they are distinct generations
+- Elder (m. Isabella Caffry, 1854–1885) and younger (m. Ethel May Calvert, c.1896). Verify this isn't a tree merge artifact.
 
 ## Low Priority
 
-### 13. Geographic origins of all lines
-- All "likely UK" assignments for Simpson/Bettison/McAllister/Major are speculative. Need residence records.
+### 19. Geographic origins of all lines
+- UK assignments for Simpson/Bettison/McAllister/Major/Calvert are speculative until residence records are found.
 
 ## Data Acquisition Priorities
 
 | Priority | Record Type | Expected Yield | Cost |
 |---|---|---|---|
-| 1 | MyHeritage GEDCOM export | Full tree data in structured form; supersedes screenshots | Free |
-| 2 | UK GRO birth/marriage/death indexes | Vitals for Bettison, McAllister, Simpson lines | Free index, paid certs |
-| 3 | 1921 / 1939 UK census | Household compositions for Bettison, McAllister | Paid (Findmypast) |
-| 4 | Direct conversation with Alexander | Bastien surname origin, living memory | Free |
+| 1 | MyHeritage GEDCOM export | Full structured tree; resolves most inference uncertainty | Free |
+| 2 | Closer screenshots of unplaced Pach/Voet branch | Clarifies how that branch connects | Free |
+| 3 | Joods Monument + Dutch Jewish Council records | WWII status of Konyn family | Free |
+| 4 | Dutch civil registration (Amsterdam archives) | Vitals and marriages for Konyn / Van Slochem / Voet / de Vries | Free online |
+| 5 | UK GRO birth/marriage/death indexes | Vitals for Bettison, McAllister, Simpson, Major, Calvert, Caffry lines | Free index, paid certs |
+| 6 | 1921 / 1939 UK registers | Household compositions | Paid (Findmypast) |
+| 7 | Direct conversation with Alexander | Bastien surname origin, living memory | Free |

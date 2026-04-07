@@ -1,28 +1,25 @@
 ---
 type: person
 name: "Mary jane Simpson"
-born: unknown
+born: "circa 1876"
 died: unknown
 family: "Simpson"
-confidence: stub
+confidence: moderate
 sources:
-  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06, zoomed out; relationships only, no dates)"
+  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06)"
 created: 2026-04-06
-tags: [genealogy, simpson, person, stub]
+tags: [genealogy, simpson, major, person]
 ---
 
 # Mary jane Simpson
 
-## Vital Information
+Née **Major**.
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Mary jane Simpson | MyHeritage |
+| Born | circa 1876 | MyHeritage |
+| Died | unknown (marked Deceased) | MyHeritage |
+| Father | [[John_Major]] | MyHeritage |
+| Mother | [[Jane_Major]] | MyHeritage |
 | Spouse | [[George_Henry_Simpson]] | MyHeritage |
 | Children | [[Henry_Simpson]] | MyHeritage |
-
-## Notes
-
-Maiden name unknown. Parents not yet captured.
-
-Stub record. No dates, places, or additional detail captured from the source screenshot. Needs GEDCOM or closer images for vitals.

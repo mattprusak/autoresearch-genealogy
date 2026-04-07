@@ -1,30 +1,25 @@
 ---
 type: person
 name: "Henry Simpson"
-born: unknown
+born: "circa 1896"
 died: unknown
 family: "Simpson"
-confidence: stub
+confidence: moderate
 sources:
-  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06, zoomed out; relationships only, no dates)"
+  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06)"
 created: 2026-04-06
-tags: [genealogy, simpson, person, stub]
+tags: [genealogy, simpson, person]
 ---
 
 # Henry Simpson
 
-## Vital Information
-
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Henry Simpson | MyHeritage |
+| Born | circa 1896 | MyHeritage |
+| Died | unknown (marked Deceased) | MyHeritage |
 | Father | [[George_Henry_Simpson]] | MyHeritage |
-| Mother | [[Mary_Jane_Simpson]] | MyHeritage |
-| Spouse | [[Ethel_May_Simpson]] | MyHeritage |
+| Mother | [[Mary_Jane_Simpson]] (née Major) | MyHeritage |
+| Spouse | [[Ethel_May_Simpson]] (née Calvert) | MyHeritage |
 | Children | [[Leslie_Roy_Simpson]] | MyHeritage |
 
-## Notes
-
-Grandson of [[Henry_Simpson_elder]]; same given name, different generation.
-
-Stub record. No dates, places, or additional detail captured from the source screenshot. Needs GEDCOM or closer images for vitals.
+Disambiguated from his grandfather [[Henry_Simpson_elder]] (1854 era, m. Isabella Caffry). Born ~1896, so would have been of age for WWI military service — worth checking UK service records.

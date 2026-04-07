@@ -1,28 +1,23 @@
 ---
 type: person
 name: "Andries Simon Voet"
-born: unknown
+born: 1838-04-01
 died: unknown
 family: "Voet"
-confidence: stub
+confidence: moderate
 sources:
-  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06, zoomed out; relationships only, no dates)"
+  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06)"
 created: 2026-04-06
-tags: [genealogy, voet, person, stub]
+tags: [genealogy, voet, person]
 ---
 
 # Andries Simon Voet
 
-## Vital Information
-
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Andries Simon Voet | MyHeritage |
+| Born | 1838-04-01 | MyHeritage |
+| Died | unknown (marked Deceased) | MyHeritage |
 | Spouse | [[Leentje_Voet]] | MyHeritage |
-| Children | [[Betsy_Pach]] (inferred) | MyHeritage |
+| Children | [[Betsy_Pach]] (née Voet) | MyHeritage |
 
-## Notes
-
-
-
-Stub record. No dates, places, or additional detail captured from the source screenshot. Needs GEDCOM or closer images for vitals.
+Earliest confirmed date in the tree so far. Dutch-Jewish Voet surname. Connection of this branch to Alexander's direct line needs re-verification (see [[David_Pach]]).

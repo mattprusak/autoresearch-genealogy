@@ -1,30 +1,25 @@
 ---
 type: person
 name: "Salomon Konyn"
-born: unknown
-died: unknown
+born: 1863-01-22
+died: 1950-07-13
 family: "Konyn"
-confidence: stub
+confidence: moderate
 sources:
-  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06, zoomed out; relationships only, no dates)"
+  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06)"
 created: 2026-04-06
-tags: [genealogy, konyn, person, stub]
+tags: [genealogy, konyn, person]
 ---
 
 # Salomon Konyn
 
-## Vital Information
-
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Salomon Konyn | MyHeritage |
+| Born | 1863-01-22 | MyHeritage |
+| Died | 1950-07-13 | MyHeritage |
 | Father | [[Moses_Konyn]] | MyHeritage |
 | Mother | [[Sophia_Konyn]] | MyHeritage |
-| Spouse | [[Mietje_Konyn]] | MyHeritage |
+| Spouse | [[Mietje_Konyn]] (née Van Slochem) | MyHeritage |
 | Children | [[Abraham_Konyn]] | MyHeritage |
 
-## Notes
-
-
-
-Stub record. No dates, places, or additional detail captured from the source screenshot. Needs GEDCOM or closer images for vitals.
+Lived 87 years. Death in July 1950 means he survived the Holocaust — worth checking whether he was in the Netherlands during occupation.

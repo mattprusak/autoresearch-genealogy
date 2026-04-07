@@ -1,28 +1,25 @@
 ---
 type: person
 name: "Mietje Konyn"
-born: unknown
-died: unknown
+born: "circa 1865"
+died: 1911-02-10
 family: "Konyn"
-confidence: stub
+confidence: moderate
 sources:
-  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06, zoomed out; relationships only, no dates)"
+  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06)"
 created: 2026-04-06
-tags: [genealogy, konyn, person, stub]
+tags: [genealogy, konyn, van-slochem, person]
 ---
 
 # Mietje Konyn
 
-## Vital Information
+Née **Van Slochem**.
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Mietje Konyn | MyHeritage |
+| Born | circa 1865 | MyHeritage |
+| Died | 1911-02-10 | MyHeritage |
 | Spouse | [[Salomon_Konyn]] | MyHeritage |
 | Children | [[Abraham_Konyn]] | MyHeritage |
 
-## Notes
-
-Maiden name and parents not captured in screenshot. Konyn is married name.
-
-Stub record. No dates, places, or additional detail captured from the source screenshot. Needs GEDCOM or closer images for vitals.
+Van Slochem is a Dutch-Jewish surname (toponymic from Slochteren). Parents not yet captured — opens the Van Slochem line. Corrects earlier incorrect inference that she was née de Vries.

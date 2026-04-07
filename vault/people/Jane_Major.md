@@ -1,28 +1,23 @@
 ---
 type: person
 name: "Jane Major"
-born: unknown
+born: 1871
 died: unknown
 family: "Major"
-confidence: stub
+confidence: moderate
 sources:
-  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06, zoomed out; relationships only, no dates)"
+  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06)"
 created: 2026-04-06
-tags: [genealogy, major, person, stub]
+tags: [genealogy, major, person]
 ---
 
 # Jane Major
 
-## Vital Information
-
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Jane Major | MyHeritage |
+| Born | 1871 | MyHeritage |
+| Died | unknown (marked Deceased) | MyHeritage |
 | Spouse | [[John_Major]] | MyHeritage |
-| Children | [[Ethel_May_Simpson]] | MyHeritage |
+| Children | [[Mary_Jane_Simpson]] (née Major) | MyHeritage |
 
-## Notes
-
-Maiden name unknown.
-
-Stub record. No dates, places, or additional detail captured from the source screenshot. Needs GEDCOM or closer images for vitals.
+Maiden name unknown. Major is her married name.

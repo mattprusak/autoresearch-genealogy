@@ -1,28 +1,23 @@
 ---
 type: person
 name: "John Major"
-born: unknown
+born: 1871
 died: unknown
 family: "Major"
-confidence: stub
+confidence: moderate
 sources:
-  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06, zoomed out; relationships only, no dates)"
+  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06)"
 created: 2026-04-06
-tags: [genealogy, major, person, stub]
+tags: [genealogy, major, person]
 ---
 
 # John Major
 
-## Vital Information
-
 | Field | Value | Source |
 |---|---|---|
-| Full Name | John Major | MyHeritage |
+| Born | 1871 | MyHeritage |
+| Died | unknown (marked Deceased) | MyHeritage |
 | Spouse | [[Jane_Major]] | MyHeritage |
-| Children | [[Ethel_May_Simpson]] | MyHeritage |
+| Children | [[Mary_Jane_Simpson]] (née Major) | MyHeritage |
 
-## Notes
-
-
-
-Stub record. No dates, places, or additional detail captured from the source screenshot. Needs GEDCOM or closer images for vitals.
+Corrects earlier error: John & Jane Major are parents of **Mary jane Simpson**, not Ethel May (who is née Calvert).

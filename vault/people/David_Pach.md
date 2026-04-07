@@ -1,28 +1,22 @@
 ---
 type: person
 name: "David Pach"
-born: unknown
-died: unknown
+born: 1861
+died: 1894
 family: "Pach"
-confidence: stub
+confidence: moderate
 sources:
-  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06, zoomed out; relationships only, no dates)"
+  - "MyHeritage: Bastien Family Tree (screenshot, 2026-04-06)"
 created: 2026-04-06
-tags: [genealogy, pach, person, stub]
+tags: [genealogy, pach, person]
 ---
 
 # David Pach
 
-## Vital Information
-
 | Field | Value | Source |
 |---|---|---|
-| Full Name | David Pach | MyHeritage |
-| Spouse | [[Betsy_Pach]] | MyHeritage |
-| Children | [[Leah_Konyn]] | MyHeritage |
+| Born | 1861 | MyHeritage |
+| Died | 1894 | MyHeritage |
+| Spouse | [[Betsy_Pach]] (née Voet) | MyHeritage |
 
-## Notes
-
-Parents not captured.
-
-Stub record. No dates, places, or additional detail captured from the source screenshot. Needs GEDCOM or closer images for vitals.
+Died young (age ~33). **Relationship to main Bastien line is now unclear.** Earlier inference that he was father of Leah Konyn was wrong (Leah is née Berkovitch, not Pach). David Pach + Betsy Voet appear in the tree but how they connect to Alexander's direct line needs re-verification from a closer screenshot or GEDCOM.
