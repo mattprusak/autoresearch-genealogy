@@ -11,17 +11,13 @@ All current data is single-sourced from MyHeritage "Bastien Family Tree" screens
 
 ## High Priority
 
-### 1. Origin of the "Bastien" surname
-- Alexander Bastien's father is Martin Simpson. Why does Alexander carry the surname Bastien rather than Simpson?
-- Hypotheses: legal name change, adoption, different biological father, stepfather arrangement, stage name kept legally.
-- **Next step**: ask Alexander directly.
+### 1. Origin of the "Bastien" surname — RESOLVED (2026-04-07)
+- Alexander was born Alexander Simpson and changed his legal surname to Bastien by deed poll. Not a separate paternal line; follow the Simpson line for genealogical research.
 
-### 2. Leah Konyn née Berkovitch — full maiden name and parents
-- Source shows "born Berkovitch o..." — truncated. Is it just "Berkovitch" or a longer form (Berkovitch-something, Berkowicz of [place])?
-- Parents entirely unknown.
-- Berkovitch is an Ashkenazi patronymic suggesting **Eastern European** (Russian Empire / Pale of Settlement) origin — distinct from the Dutch-Jewish Konyn family she married into.
-- This is a whole new line to open. Likely involves migration: Eastern Europe → Netherlands → UK.
-- **Next step**: closer screenshot of her MyHeritage record; Dutch civil registration marriage record for Abraham × Leah.
+### 2. Leah Konyn née Berkovitch — full maiden name and parents — PARTIALLY RESOLVED (2026-04-07)
+- Full alternate maiden names: **Berkovitch or Zaidenwaber** (both Eastern European Jewish; Zaidenwaber = Yiddish "silk weaver", occupational).
+- Born Amsterdam 1888-09-22; died Hackney, London 1960-09-02. Confirms **Amsterdam → London East End migration**.
+- Still unknown: which surname is canonical, her parents, year of arrival in London, marriage date/place.
 
 ### 3. Holocaust-era status of the Dutch-Jewish line
 - Abraham Konyn (1888–c.1961), Leah Konyn née Berkovitch (c.1888–1960), and Salomon Konyn (1863–1950-07-13) all lived through WWII and died after it.
